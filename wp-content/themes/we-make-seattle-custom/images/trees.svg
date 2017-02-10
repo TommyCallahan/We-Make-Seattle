@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="217px" height="105px" viewBox="0 0 217 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop-HD" sketch:type="MSArtboardGroup" transform="translate(-85.000000, -1234.000000)" fill="#FFFFFF">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(85.000000, 1234.000000)">
+                <path d="M30.9090909,86.4705882 L0,86.4705882 L24.65,41.6911765 L9.27272727,41.6911765 L34,0 L58.7272727,41.6911765 L43.35,41.6911765 L68,86.4705882 L37.0909091,86.4705882 L37.0909091,105 L30.9090909,105 L30.9090909,86.4705882 Z" id="Triangle-1" sketch:type="MSShapeGroup"></path>
+                <path d="M104.909091,86.4705882 L74,86.4705882 L98.65,41.6911765 L83.2727273,41.6911765 L108,0 L132.727273,41.6911765 L117.35,41.6911765 L142,86.4705882 L111.090909,86.4705882 L111.090909,105 L104.909091,105 L104.909091,86.4705882 Z" id="Triangle-1-Copy-2" sketch:type="MSShapeGroup"></path>
+                <path d="M179.909091,86.4705882 L149,86.4705882 L173.65,41.6911765 L158.272727,41.6911765 L183,0 L207.727273,41.6911765 L192.35,41.6911765 L217,86.4705882 L186.090909,86.4705882 L186.090909,105 L179.909091,105 L179.909091,86.4705882 Z" id="Triangle-1-Copy-3" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
